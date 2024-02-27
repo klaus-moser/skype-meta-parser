@@ -1,0 +1,1 @@
+# skype-meta-parser
